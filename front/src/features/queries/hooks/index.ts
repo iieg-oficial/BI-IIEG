@@ -1,0 +1,1 @@
+export { useQueries } from './useQueries';
